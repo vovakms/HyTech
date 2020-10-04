@@ -1,19 +1,22 @@
 # СУБД HyTech
 
   
-- ClientHyTech   
-- DLL_LIB_HyTech 
-- HyTechODBC
-- dbms-HyTech_C
-- dbms-HyTech_edition_C-_twoClass
+- AdminkaHyTech(2012C++)
+- AdminkaHyTech
+- AdminkaHyTech___C++
+- AdminkaHyTech__c++
+- ClientHyTech_(C#WPF)
 - dbms-HyTech_edition_C
 - dbms-HyTech_edition_CSharp
 - dbms-HyTech_edition_C_one_class
-- server-HyTech
- 
+- edition_C_twoClass
+- Дополнительно
+  
 
-  СУБД HyTech является не моей разработкой,   выложенный тут сервер HyTech служит для того чтобы не искать на просторах интернета того чего нету, (даже на сайте разработчиков ее нету ) а сразу скачать и тестить мои доработки данной СУБДшки уже канувшую в историю (2019 год)
-За все время работы с HyTech единственно что удалось найти https://pypi.org/project/pyhytechdb/
+  В папке "Дополнительно" находится СУБД HyTech 
+  (является не моей разработкой, выложенный тут сервер HyTech служит для того чтобы не искать на просторах интернета того чего нету) 
+  а сразу скачать и тестить мои доработки данной СУБДшки уже канувшую в историю  
+  Имеется еще для Python удалось найти https://pypi.org/project/pyhytechdb/
 
 
 Своего рода хранилище все то с чем мне пришлось работать с HyTech.
