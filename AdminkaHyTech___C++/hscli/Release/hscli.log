@@ -1,0 +1,9 @@
+﻿  hscli.cpp
+     Создается библиотека C:\Users\Admin\Desktop\Max_Dark_hscli\Release\hscli.lib и объект C:\Users\Admin\Desktop\Max_Dark_hscli\Release\hscli.exp
+  Создание кода
+  47 of 47 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  hscli.vcxproj -> C:\Users\Admin\Desktop\Max_Dark_hscli\Release\hscli.dll
+  hscli.vcxproj -> C:\Users\Admin\Desktop\Max_Dark_hscli\Release\hscli.pdb (Full PDB)
